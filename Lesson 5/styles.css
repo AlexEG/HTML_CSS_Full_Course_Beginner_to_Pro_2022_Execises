@@ -63,16 +63,115 @@ h3 {
   font-family: arial;
 }
 #macbook{
-
+  text-align:center ;
+  font-family: arial;
+  font-weight: bold;
 }
 #supercharged{
-
+  text-align:center ;
+  font-family: arial;
+  font-size: 25px;
+  font-weight: bold;
 }
 #price{
-
+  text-align:center ;
+  font-family: arial;
+  color: rgb(110, 110, 110);
 }
 #Buy{
+  color: white;
+  background-color: rgba(15, 79, 255, 0.918);
+  border: none;
+  padding: 5px;
+  width: 45px;
+  border-radius: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 45%;
+  margin: 0;
+  top: 50%;
   
 }
+
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tweet-header {
+  margin-bottom: 5px;
+}
+
+.tweet-author {
+  font-weight: bold;
+}
+
+.tweet-info {
+  color: rgb(100, 100, 100);
+}
+
+.tweet {
+  width: 600px;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+
+.twitter-handle {
+  color: rgb(29, 155, 240);
+}
+
+.price {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+.currency {
+  font-size: 16px;
+  color: rgb(100, 100, 100);
+}
+
+.change {
+  color: rgb(10, 151, 52);
+  margin-bottom: 8px;
+}
+
+.after-hours {
+  color: rgb(100, 100, 100);
+}
+
+.after-hours-change {
+  color: rgb(235, 39, 39);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
