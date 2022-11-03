@@ -1,0 +1,101 @@
+#one {
+  box-sizing: border-box;
+  width: 100%;
+  border: solid rgba(233, 21, 215, 0.575) 10px;
+  padding: 10px;
+  background-color: #f8f5f5;
+}
+body {
+  background-color: #f7f7f7;
+}
+h1 {
+  color: rgb(137, 43, 226);
+  text-align: center;
+}
+h3 {
+  color: rgb(233, 21, 215);
+  text-align: center;
+}
+
+#image-1 {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 15px;
+}
+#image-2 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  margin: 5px;
+}
+#image-3 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+}
+
+#image-4 {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+}
+#tweet {
+  color: rgba(155, 155, 155, 0.863);
+  display: inline-block;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+.tweet {
+  background-color: rgba(22, 114, 252, 0.856);
+  border: none;
+  border-radius: 5px;
+  color: #f7f7f7;
+  width: 55px;
+  height: 26px;
+  border-radius: 13px;
+  margin-left: 60px;
+}
+.two {
+  margin: 7px;
+}
+#search-1 {
+  border-radius: 5px;
+  border: solid 1px rgb(130, 131, 130);
+  margin-bottom: 7px;
+}
+#search-2 {
+  width: 300px;
+  height: 25px;
+  border-radius: 15px;
+  border: solid 1px rgb(130, 131, 130);
+  padding-left: 7px;
+}
+#search-3 {
+  border-radius: 5px;
+  border: solid 1px rgb(130, 131, 130);
+  width: 300px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: -7px;
+}
+
+.email {
+  color: rgba(117, 117, 117, 0.863);
+}
+
+.agree {
+  width: 300px;
+  border-radius: 105px;
+  height: 35px;
+  border: none;
+  background-color: rgba(23, 66, 255, 0.842);
+  color: white;
+}
