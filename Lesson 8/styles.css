@@ -15,3 +15,60 @@ h3 {
   color: rgb(233, 21, 215);
   text-align: center;
 }
+
+#Email {
+  display: block;
+  margin-bottom: 7px;
+}
+#Name {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.customerSupport {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+
+.googleLogo {
+  margin-left: 30%;
+  margin-right: 50%;
+}
+
+#search-2 {
+  width: 450px;
+  height: 25px;
+  border-radius: 15px;
+  border: solid 1px rgb(130, 131, 130);
+  padding-left: 7px;
+  margin-left: 150px;
+}
+
+.first-name {
+  width: 148px;
+  margin-bottom: 5px;
+}
+
+.last-name {
+  width: 148px;
+  margin-bottom: 5px;
+}
+
+.email {
+  display: block;
+  width: 300px;
+}
+
+#sing-up {
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  width: 300px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-top: 5px;
+}
