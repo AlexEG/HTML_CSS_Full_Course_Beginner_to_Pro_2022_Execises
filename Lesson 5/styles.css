@@ -15,3 +15,64 @@ h3 {
   color: rgb(233, 21, 215);
   text-align: center;
 }
+
+#tahoma{
+  font-family: Tahoma;
+    font-size: 30px;
+    font-weight: bold;
+}
+#deal {
+  font-family: arial;
+}
+#sales{
+  font-family: arial;
+  color: red;
+  font-style: italic;
+
+}
+#course {
+  font-family: verdana;
+
+}
+#pro {
+  font-size: small;
+  color: rgb(207, 207, 207);
+}
+#dev {
+  color: white;
+  background-color: rgba(0, 165, 0, 0.774);
+  border: none;
+
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+}
+#business{
+  font-family: arial;
+
+}
+#apple{
+  font-size: small;
+}
+#learn-more{
+  color: rgb(0, 110, 255);
+}
+
+#new{
+  color: red;
+  text-align:center ;
+  font-family: arial;
+}
+#macbook{
+
+}
+#supercharged{
+
+}
+#price{
+
+}
+#Buy{
+  
+}
+
+
