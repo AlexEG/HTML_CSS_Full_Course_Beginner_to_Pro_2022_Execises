@@ -1,0 +1,114 @@
+#back {
+  margin: 2px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+#next {
+  margin: 2px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+a {
+  padding: 2px;
+}
+div {
+  box-sizing: border-box;
+  width: 100%;
+  border: solid rgba(233, 21, 215, 0.575) 10px;
+  padding: 10px;
+}
+body {
+  background-color: #f7f7f7;
+}
+h1 {
+  color: rgb(137, 43, 226);
+  text-align: center;
+}
+h3 {
+  color: rgb(233, 21, 215);
+  text-align: center;
+}
+.stretch {
+  background-color: rgb(17, 177, 17);
+  color: #ffff;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin: 7px;
+  cursor: pointer;
+  transition: padding 0.8s;
+}
+.stretch:hover {
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.shadow {
+  background-color: rgb(17, 177, 17);
+  color: #ffff;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin: 7px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.shadow:hover {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+.namber {
+  background-color: rgb(2, 163, 2);
+  color: #ffff;
+  border: none;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-left: 6px;
+  margin-right: 6px;
+
+  font-size: 11px;
+  cursor: pointer;
+  transition: padding 0.2s, margin-left 0.1s margin-right 0.1s;
+}
+.namber:hover {
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.D-button {
+  background-color: rgb(2, 163, 2);
+  color: #ffff;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+
+  margin-bottom: 6px;
+  margin-top: 6px;
+  margin-left: 6px;
+  margin-right: 6px;
+
+  font-size: 11px;
+  cursor: pointer;
+  transition: padding 0.6s;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  vertical-align: auto;
+}
+.D-button:active {
+  box-shadow: 0px 0px 0px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+  margin-left: 8px;
+  margin-right: 4px;
+}
