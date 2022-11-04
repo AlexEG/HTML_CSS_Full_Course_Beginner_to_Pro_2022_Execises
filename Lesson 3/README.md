@@ -1,6 +1,6 @@
 # Exercises
+https://user-images.githubusercontent.com/70604577/160038335-3f2aa74a-fd9e-484d-94b6-df88f66fc74d.mp4
 
-https://user-images.githubusercontent.com/70604577/160037789-e5e9b568-c3c8-498a-a89d-90ef57933c9d.mp4
+https://user-images.githubusercontent.com/70604577/160038339-d2ba5ea8-9b23-4a60-977f-82cf3cbf6bca.mp4
 
-https://user-images.githubusercontent.com/70604577/160037791-441f091f-f9c1-402c-8b16-1186e51d31de.mp4
-
+![Alt text](Capture.PNG)!
