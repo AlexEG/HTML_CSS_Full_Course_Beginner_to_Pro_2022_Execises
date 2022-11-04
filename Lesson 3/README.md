@@ -4,4 +4,3 @@ https://user-images.githubusercontent.com/70604577/160037789-e5e9b568-c3c8-498a-
 
 https://user-images.githubusercontent.com/70604577/160037791-441f091f-f9c1-402c-8b16-1186e51d31de.mp4
 
-![Alt text](Lesson%204.PNG)
