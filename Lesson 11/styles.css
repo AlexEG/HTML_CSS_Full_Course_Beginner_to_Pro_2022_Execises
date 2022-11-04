@@ -41,3 +41,14 @@ body {
 .col {
   background-color: lightpink;
 }
+
+.main4 {
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+}
+.col2 {
+  background-color: lightblue;
+}
+.col3 {
+  background-color: lightpink;
+}
