@@ -1,0 +1,46 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.main {
+  box-sizing: border-box;
+  width: 100%;
+  border: solid rgba(233, 21, 215, 0.575) 10px;
+  padding: 10px;
+}
+body {
+  background-color: #f7f7f7;
+}
+.header {
+  color: rgb(137, 43, 226);
+  text-align: center;
+}
+.title {
+  color: rgb(233, 21, 215);
+  text-align: center;
+}
+
+.vertical,
+.vertical2 {
+  width: 150px;
+  height: 70px;
+  display: inline-block;
+  border: solid 2px red;
+}
+
+.main2 {
+  height: 78px;
+  width: 312px;
+  border: solid 2px rgb(55, 0, 255);
+}
+#logo1 {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 25px;
+}
+.horizontal {
+  border: solid 2px rgb(0, 255, 0);
+}
