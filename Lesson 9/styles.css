@@ -146,7 +146,10 @@ img {
 .profile {
   width: 200px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-  background-color: rgba(129, 79, 209, 0.555);
+  background-color: rgba(92, 55, 151, 0.425);
+  display: inline-block;
+  margin-bottom: 3px;
+  margin-top: 7px;
 }
 
 .profile-picture2 {
