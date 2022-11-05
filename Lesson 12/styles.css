@@ -1,0 +1,41 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.main {
+  box-sizing: border-box;
+  width: 100%;
+  border: solid rgba(233, 21, 215, 0.575) 10px;
+  padding: 10px;
+}
+body {
+  background-color: #f7f7f7;
+}
+.header {
+  color: rgb(137, 43, 226);
+  text-align: center;
+}
+.title {
+  color: rgb(233, 21, 215);
+  text-align: center;
+}
+
+.felxbox1 {
+  display: flex;
+}
+
+.divOne {
+  background-color: lightblue;
+}
+
+.divTwo {
+  background-color: lightpink;
+}
+
+.item1 {
+  width: 200px;
+}
+.item2 {
+  width: 75px;
+}
