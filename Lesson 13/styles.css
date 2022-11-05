@@ -57,3 +57,147 @@ body {
   background-color: black;
   color: white;
 }
+/* ------------------------- */
+.container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 400px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #ada9d4;
+}
+
+.inbox-label {
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+  margin-bottom: 20px;
+}
+
+.email {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.sender-picture-container {
+  margin-right: 10px;
+}
+
+.sender-picture {
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+  border-radius: 25px;
+  object-position: top;
+}
+
+.email-content {
+  flex: 1;
+}
+
+.email-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+}
+
+.sender-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.send-time {
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+}
+
+.subject {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.message {
+  color: rgb(120, 120, 120);
+}
+/* ------------------ */
+.tweet {
+  display: flex;
+  flex-direction: row;
+  width: 420px;
+  margin-top: 10px;
+  margin-left: 20px;
+  background-color: rgb(197, 197, 197);
+}
+
+.profile-picture-column {
+  margin-right: 10px;
+}
+
+.profile-picture {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+.tweet-column {
+  flex: 1;
+}
+
+.tweet-header {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+.tweet-author {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.tweet-author-handle {
+  color: rgb(122, 28, 28);
+}
+
+.tweet-content {
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+
+.video-preview {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.thumbnail-column {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(197, 197, 197);
+  margin-right: 10px;
+}
+
+.video-info-column {
+  flex: 1;
+}
+
+.video-website {
+  color: rgb(111, 111, 111);
+  margin-bottom: 3px;
+}
+
+.video-title {
+  line-height: 22px;
+}
